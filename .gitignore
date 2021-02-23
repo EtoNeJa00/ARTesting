@@ -1,0 +1,10 @@
+Logs/
+.vs/
+obj/
+Temp/
+.vsconfig
+ARTesting.sln
+Assembly-CSharp.csproj
+UserSettings/
+*.log
+[Ll]ibrary/
